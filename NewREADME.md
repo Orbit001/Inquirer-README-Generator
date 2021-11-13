@@ -1,8 +1,8 @@
-# Inquirer README Generator
+# SuperEats
 
   
   ## Description: 
-  An easy and efficient tool to make a professionally formatted README file for your projects and applications.
+  An effecient way of ordering food!
   ## Table of Contents
   - [Installation](#Installation)
   - [Usage](#Usage)
@@ -10,9 +10,9 @@
   - [Test Info](#Test-Info)
   - [Questions](#Questions)
   ## Installation: 
-  Simply download the repo, keep all files in same place, and open index.js in node.
+  Install files then run index.js
   ## Usage: 
-  A series of prompts are presented that when filled out with data, said data goes to NewREADME.md with a formatted readme file for you.
+  Using UI, follow through options in the menu and fill out information.
   ## Contributing: 
   N/A
   ## Test Info: 

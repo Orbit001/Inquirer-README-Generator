@@ -11,6 +11,8 @@
   Simply download the repo, keep all files in same place, and open index.js in node.
   ## Usage: 
   A series of prompts are presented that when filled out with data, said data goes to NewREADME.md with a formatted readme file for you.
+  <img src="Assets\Usage.gif" />
+
 
   ## Contributing: 
   N/A
